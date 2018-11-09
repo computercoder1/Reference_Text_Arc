@@ -24,5 +24,5 @@ void draw() {
   arc(mouseX,mouseY,100,100, radians(90), radians(270));
   textSize(27); 
   text("lass",305,370);
-  save("REFERENCE-TextArc.png");
+
 }
